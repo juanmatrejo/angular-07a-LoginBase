@@ -1,0 +1,1 @@
+{"ast":null,"code":"var UserModel = /** @class */function () {\n  function UserModel() {}\n  return UserModel;\n}();\nexport { UserModel };","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
